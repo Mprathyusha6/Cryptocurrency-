@@ -10,7 +10,7 @@ import store from './app/Store';
 import 'antd/dist/antd.css';
 
 
-console.log(store);
+ 
 ReactDOM.render(
   <React.StrictMode>
     <Router>
